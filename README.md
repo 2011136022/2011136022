@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, my name is Kim Young Ho
+#### I am Backend developer(Junior)
+
+Skills: REACT / JavaScript / Java / springboot / AWS
+
+- 📫 How to reach me: 01034810904
+- 🔭 I’m currently working on Vatech
